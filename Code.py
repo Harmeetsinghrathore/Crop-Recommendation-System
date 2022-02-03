@@ -1,4 +1,4 @@
-# By Harmeet Singh 
+# Harmeet Singh 
 
 #--------------Crop Production Optimization using K-Means Clustering Algorithm--------------------
 
